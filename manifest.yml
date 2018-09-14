@@ -1,0 +1,7 @@
+---
+applications:
+- name:    Nombre_app
+  host:    Nombre_app
+  memory:  256M
+  services:
+    - Nombre_db
